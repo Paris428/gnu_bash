@@ -1,4 +1,9 @@
-                    GNU GENERAL PUBLIC LICENSE
+       cd path/to/paris-shoes
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/USERNAME/paris-shoes.git
+git push -u origin masterGNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
